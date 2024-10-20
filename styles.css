@@ -1,0 +1,43 @@
+body {
+  font-family: system-ui;
+  background: gray;
+  color: white;
+  text-align: center;
+h1 {
+    text-align: center;
+    background-color: #200772;
+    color: white;
+    margin: 0px;
+    padding: 30px 0px 30px 0px;
+}
+
+.gallery{
+    background-color: #c9f76f;
+}
+
+footer {
+    background-color: #c9f76f;
+    padding: 10px;
+}
+
+footer img {
+    width: 60px;
+}
+
+h2 {
+padding: 10px 0px 10px 20px ;
+background-color:black
+}
+
+a {
+padding-left: 40px;
+}
+  footer a{
+    text-decoration: none;
+    color: blue;
+    font-size: 30px;
+    border: 1px solid red;
+    background-color: red;
+    padding: 5px;
+    border-radius: 10px;
+}
